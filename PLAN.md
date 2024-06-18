@@ -6,8 +6,6 @@
 - ganomede-users
   - [ ] deploy
 - ganomede-invitations
-  - [ ] invite by tag
-  - [ ] translate list of invitations
   - [ ] redeploy ganomede invitations
 - ganomede-admin
   - [ ] display `name`
@@ -24,9 +22,6 @@
   - [ ] send message by tag
   - [ ] receive message by name
 - ganomede-statistics
-  - [ ] player rank by tag
-  - [ ] player stats by tag
-  - [ ] player archives by tag
 - ganomede-turngame
   - [ ] send notifications by name
 
@@ -43,7 +38,7 @@ OK ganomede-virtualcurrency
 # Next steps
 
 - [x] Decide on presentation of (userId,name,tag) external server
-- [ ] Create all github issues
+- [x] Create all github issues
 - [ ] Create tests/rest-api.sh for all modules
 - [ ] Update Triominos client
 - [ ] Follow up Alexey
